@@ -15,9 +15,7 @@ myLabel9 = Label(root, text="r:2 - c:2")
 myLabel10 = Label(root, text="column 0").grid(row=4, column=0)
 myLabel11 = Label(root, text="column 1").grid(row=4, column=1)
 myLabel12 = Label(root, text="column 2").grid(row=4, column=2)
-myLabel12 = Label(root, text="row 0").grid(row=0, column=4)
-myLabel12 = Label(root, text="row 1").grid(row=1, column=4)
-myLabel12 = Label(root, text="row 2").grid(row=2, column=4)
+
 
 # Shoving it onto screen
 
